@@ -17,6 +17,6 @@
   "author": "Anthony Krivonos",
   "license": "MIT",
   "dependencies": {
-    "electron": "^18.3.11"
+    "electron": "^19.0.15"
   }
 }
